@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parzival7962
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning about JavaScript, HTML, CSS and SQL
+- 🌱 I’m currently learning about Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: cats are cool
 
