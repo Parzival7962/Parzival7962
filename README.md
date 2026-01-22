@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parzival7962
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning about Python
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Vary
 - ⚡ Fun fact: cats are cool
 
 <!---
