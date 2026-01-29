@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parzival7962
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning about Python
+- 🌱 I’m currently learning about C++
 - 😄 Pronouns: Vary
 - ⚡ Fun fact: cats are cool
 
